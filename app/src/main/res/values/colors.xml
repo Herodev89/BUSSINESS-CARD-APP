@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFEEEEEE</color>
+    <color name="primary_text_color">#FF212121</color>
+    <color name="secondary_text_color">#FF616161</color>
+    <color name="divider_color">#FFBDBDBD</color>
+    <color name="link_color">#FF1565C0</color>
+</resources>
+
