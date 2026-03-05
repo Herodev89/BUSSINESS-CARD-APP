@@ -2,6 +2,8 @@
 
 This is a simple Android application written in Kotlin that displays a digital business card on a single screen.
 
+![Business Card App screenshot](bussinesscard.png)
+
 ## Features
 
 - Shows **full name**, **job title**, and **company**.
